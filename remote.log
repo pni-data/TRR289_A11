@@ -1,1 +1,1 @@
-343e1459-e7d3-45d2-a1fb-1d66a542a218 autoenable=true bucket=ff0222da-5947-44cd-89aa-430351890bef chunk=50mb datacenter=US encryption=none host=global.datastorage.nrw name=coscine-rds-s3 port=443 signature=v4 storageclass=STANDARD type=S3 timestamp=1778505713s
+343e1459-e7d3-45d2-a1fb-1d66a542a218 autoenable=true bucket=ff0222da-5947-44cd-89aa-430351890bef chunk=50mb datacenter=US encryption=none host=global.datastorage.nrw name=coscine-rds-s3 port=443 signature=v4 storageclass=STANDARD type=S3 timestamp=1794315319s
